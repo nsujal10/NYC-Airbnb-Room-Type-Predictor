@@ -454,5 +454,7 @@ Shows prediction confidence for each room type:
 - [Pydantic Validation](https://docs.pydantic.dev/)
 - [MDN Web Docs](https://developer.mozilla.org/)
 
+<img width="1566" height="1273" alt="image" src="https://github.com/user-attachments/assets/cc712fca-289b-4acd-b01b-98507154d903" />
+
 ---
 
